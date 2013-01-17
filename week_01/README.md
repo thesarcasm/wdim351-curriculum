@@ -11,3 +11,7 @@
 1. Push this change back up to your repo (`git push origin master`).
 
 ## Your paragraph here:
+ 
+In this video "So you want to be  a Font-end engineer" primarily discusses about the difference between designers, hackers, developers and engineers. David Mosher, designer turned developer, defines developers as one who uses best practices but does not understand what is fully underneath.  Then he defines engineers as one who uses the best practices and understand fully why they use those practices. They are the ones that can solve problems.  
+
+Mosher also gives a lesson a plan in which he explains and describes the three key points in what a front end engineer should know. The first one is being able to understand web browsers. He states that browers are the most volatile programming environment the world has known. The second is knowing engineers toolbox. The third knowing the best practices. 
